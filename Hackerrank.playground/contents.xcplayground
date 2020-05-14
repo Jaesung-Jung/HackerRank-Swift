@@ -9,5 +9,6 @@
         <page name='algorithm@warmup@a_very_big_sum'/>
         <page name='algorithm@warmup@diagonal_difference'/>
         <page name='algorithm@warmup@plus_minus'/>
+        <page name='algorithm@warmup@staircase'/>
     </pages>
 </playground>

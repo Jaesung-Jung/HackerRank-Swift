@@ -9,4 +9,5 @@
  - [A Very Big Sum](algorithm@warmup@a_very_big_sum)
  - [Diagonal Difference](algorithm@warmup@diagonal_difference)
  - [Plus Minus](algorithm@warmup@plus_minus)
+ - [Staircase](algorithm@warmup@staircase)
  */
