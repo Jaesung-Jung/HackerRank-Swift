@@ -1,7 +1,7 @@
 /*:
  [Previous](algorithm)
  # Simple Array Sum
- [https:www.hackerrank.com/challenges/solve-me-first/problem](https://www.hackerrank.com/challenges/simple-array-sum/problem)
+ [https://www.hackerrank.com/challenges/solve-me-first/problem](https://www.hackerrank.com/challenges/simple-array-sum/problem)
  ### Section
  Practice > Algorithm > Warmup
  ### Difficulty

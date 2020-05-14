@@ -1,7 +1,7 @@
 /*:
  [Previous](algorithm)
  # Slove Me First
- [https:www.hackerrank.com/challenges/solve-me-first/problem](https://www.hackerrank.com/challenges/solve-me-first/problem)
+ [https://www.hackerrank.com/challenges/solve-me-first/problem](https://www.hackerrank.com/challenges/solve-me-first/problem)
  ### Section
  Practice > Algorithm > Warmup
  ### Difficulty

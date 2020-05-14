@@ -1,7 +1,7 @@
 /*:
  [Previous](algorithm)
  # Compare the Triplets
- [https:www.hackerrank.com/challenges/solve-me-first/problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
+ [https://www.hackerrank.com/challenges/solve-me-first/problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
  ### Section
  Practice > Algorithm > Warmup
  ### Difficulty
