@@ -11,4 +11,5 @@
  - [Plus Minus](algorithm@warmup@plus_minus)
  - [Staircase](algorithm@warmup@staircase)
  - [Mini-Max Sum](algorithm@warmup@mini_max_sum)
+ - [Birthday Cake Candles](algorithm@warmup@birthday_cake_candles)
  */

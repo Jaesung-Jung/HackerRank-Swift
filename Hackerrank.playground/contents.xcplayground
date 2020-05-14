@@ -11,5 +11,6 @@
         <page name='algorithm@warmup@plus_minus'/>
         <page name='algorithm@warmup@staircase'/>
         <page name='algorithm@warmup@mini_max_sum'/>
+        <page name='algorithm@warmup@birthday_cake_candles'/>
     </pages>
 </playground>
