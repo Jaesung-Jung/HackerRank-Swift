@@ -8,4 +8,5 @@
  - [Compare the Triplets](algorithm@warmup@compare_the_triplets)
  - [A Very Big Sum](algorithm@warmup@a_very_big_sum)
  - [Diagonal Difference](algorithm@warmup@diagonal_difference)
+ - [Plus Minus](algorithm@warmup@plus_minus)
  */

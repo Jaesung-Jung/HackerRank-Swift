@@ -8,5 +8,6 @@
         <page name='algorithm@warmup@compare_the_triplets'/>
         <page name='algorithm@warmup@a_very_big_sum'/>
         <page name='algorithm@warmup@diagonal_difference'/>
+        <page name='algorithm@warmup@plus_minus'/>
     </pages>
 </playground>
