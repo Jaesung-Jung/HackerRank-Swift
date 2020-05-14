@@ -10,4 +10,5 @@
  - [Diagonal Difference](algorithm@warmup@diagonal_difference)
  - [Plus Minus](algorithm@warmup@plus_minus)
  - [Staircase](algorithm@warmup@staircase)
+ - [Mini-Max Sum](algorithm@warmup@mini_max_sum)
  */
