@@ -12,5 +12,6 @@
         <page name='algorithm@warmup@staircase'/>
         <page name='algorithm@warmup@mini_max_sum'/>
         <page name='algorithm@warmup@birthday_cake_candles'/>
+        <page name='algorithm@warmup@time_conversion'/>
     </pages>
 </playground>

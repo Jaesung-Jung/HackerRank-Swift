@@ -12,4 +12,5 @@
  - [Staircase](algorithm@warmup@staircase)
  - [Mini-Max Sum](algorithm@warmup@mini_max_sum)
  - [Birthday Cake Candles](algorithm@warmup@birthday_cake_candles)
+ - [Time Conversion](algorithm@warmup@time_conversion)
  */
