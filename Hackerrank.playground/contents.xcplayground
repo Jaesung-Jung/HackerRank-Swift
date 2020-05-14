@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
+    <pages>
+        <page name='table_of_contents'/>
+        <page name='algorithm'/>
+        <page name='algorithm@warmup@slove_me_first'/>
+        <page name='algorithm@warmup@simple_array_sum'/>
+        <page name='algorithm@warmup@compare_the_triplets'/>
+    </pages>
+</playground>
