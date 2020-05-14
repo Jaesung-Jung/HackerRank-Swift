@@ -18,7 +18,7 @@ func plusMinus(arr: [Int]) -> String {
       }
     }
     .map { String(Double($0) / Double(arr.count)) }
-    .joined(separator: "\n   ")
+    .joined(separator: "\n")
 }
 
 challenge(plusMinus)

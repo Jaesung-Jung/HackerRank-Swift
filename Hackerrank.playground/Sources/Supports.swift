@@ -12,7 +12,7 @@ public struct Challenge<Input, Output> {
       print("💬 \(name) | \(domain)/\(subdomain)")
       print("⌨️ Input")
       print("   \(sanitize(input))")
-      let output = try function(input)
+      let output = "\(try function(input))".replacingOccurrences(of: "\n", with: "\n   ")
       print("🖨 Output")
       print("   \(output)")
       print("----------------------------------")
