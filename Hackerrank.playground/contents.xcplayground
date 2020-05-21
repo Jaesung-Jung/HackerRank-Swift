@@ -14,5 +14,6 @@
         <page name='algorithm@warmup@birthday_cake_candles'/>
         <page name='algorithm@warmup@time_conversion'/>
         <page name='algorithm@implementation@grading_students'/>
+        <page name='algorithm@implementation@apple_and_orange'/>
     </pages>
 </playground>
