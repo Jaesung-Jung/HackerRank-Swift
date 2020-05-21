@@ -14,5 +14,5 @@ func compareTriplets(a: [Int], b: [Int]) -> [Int] {
 }
 
 challenge(compareTriplets)
-  .testCase(([17, 28, 30], [99, 16, 8]))
-  .testCase(([50, 20, 30], [60, 20, 10]))
+  .testCase((a: [17, 28, 30], b: [99, 16, 8]))
+  .testCase((a: [50, 20, 30], b: [60, 20, 10]))

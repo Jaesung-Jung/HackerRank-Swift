@@ -12,5 +12,5 @@ func sloveMeFirst(a: Int, b: Int) -> Int {
 }
 
 challenge(sloveMeFirst)
-  .testCase((2, 3))
-  .testCase((10, 20))
+  .testCase((a: 2, b: 3))
+  .testCase((a: 10, b: 20))
