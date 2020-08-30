@@ -18,5 +18,6 @@
         <page name='algorithm@implementation@kangaroo'/>
         <page name='algorithm@implementation@breaking_the_records'/>
         <page name='algorithm@implementation@birthday_chocolate'/>
+        <page name='algorithm@implementation@divisible_sum_pairs'/>
     </pages>
 </playground>
