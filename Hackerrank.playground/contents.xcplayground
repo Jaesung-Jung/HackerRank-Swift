@@ -19,5 +19,6 @@
         <page name='algorithm@implementation@breaking_the_records'/>
         <page name='algorithm@implementation@birthday_chocolate'/>
         <page name='algorithm@implementation@divisible_sum_pairs'/>
+        <page name='algorithm@implementation@migratory_birds'/>
     </pages>
 </playground>

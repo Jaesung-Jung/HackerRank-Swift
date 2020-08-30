@@ -20,4 +20,5 @@
  - [Breaking the Records](algorithm@implementation@breaking_the_records)
  - [Birthday Chocolate](algorithm@implementation@birthday_chocolate)
  - [Divisible Sum Pairs](algorithm@implementation@divisible_sum_pairs)
+ - [Migratory Birds](algorithm@implementation@migratory_birds)
  */
