@@ -17,4 +17,5 @@
  - [Grading Students](algorithm@implementation@grading_students)
  - [Apple and Orange](algorithm@implementation@apple_and_orange)
  - [Kangaroo](algorithm@implementation@kangaroo)
+ - [Breaking the Records](algorithm@implementation@breaking_the_records)
  */
