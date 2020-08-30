@@ -17,5 +17,6 @@
         <page name='algorithm@implementation@apple_and_orange'/>
         <page name='algorithm@implementation@kangaroo'/>
         <page name='algorithm@implementation@breaking_the_records'/>
+        <page name='algorithm@implementation@birthday_chocolate'/>
     </pages>
 </playground>

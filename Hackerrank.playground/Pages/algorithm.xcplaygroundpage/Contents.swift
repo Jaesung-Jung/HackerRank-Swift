@@ -18,4 +18,5 @@
  - [Apple and Orange](algorithm@implementation@apple_and_orange)
  - [Kangaroo](algorithm@implementation@kangaroo)
  - [Breaking the Records](algorithm@implementation@breaking_the_records)
+ - [Birthday Chocolate](algorithm@implementation@birthday_chocolate)
  */
