@@ -1,7 +1,7 @@
 /*:
  [Previous](algorithm)
  # Birthday Chocolate
- [https://www.hackerrank.com/challenges/the-birthday-bar/problem)
+ [https://www.hackerrank.com/challenges/the-birthday-bar/problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
  ### Section
  Practice > Algorithm > Implementation
  ### Difficulty
