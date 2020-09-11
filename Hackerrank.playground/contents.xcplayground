@@ -28,6 +28,5 @@
         <page name='algorithm@implementation@counting_valleys'/>
         <page name='algorithm@implementation@electronics_shop'/>
         <page name='algorithm@implementation@cats_and_a_mouse'/>
-        <page name='algorithm@implementation@forming_a_magic_square'/>
     </pages>
 </playground>

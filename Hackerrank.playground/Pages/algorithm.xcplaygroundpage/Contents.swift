@@ -29,5 +29,4 @@
  - [Counting Valleys](algorithm@implementation@counting_valleys)
  - [Electronics Shop](algorithm@implementation@electronics_shop)
  - [Cats and a Mouse](algorithm@implementation@cats_and_a_mouse)
- - [Forming a Magic Square](algorithm@implementation@forming_a_magic_square)
  */
