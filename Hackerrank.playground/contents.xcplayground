@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='macos' display-mode='rendered'>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
     <pages>
         <page name='table_of_contents'/>
         <page name='algorithm'/>
@@ -13,5 +13,20 @@
         <page name='algorithm@warmup@mini_max_sum'/>
         <page name='algorithm@warmup@birthday_cake_candles'/>
         <page name='algorithm@warmup@time_conversion'/>
+        <page name='algorithm@implementation@grading_students'/>
+        <page name='algorithm@implementation@apple_and_orange'/>
+        <page name='algorithm@implementation@kangaroo'/>
+        <page name='algorithm@implementation@between_two_sets'/>
+        <page name='algorithm@implementation@breaking_the_records'/>
+        <page name='algorithm@implementation@birthday_chocolate'/>
+        <page name='algorithm@implementation@divisible_sum_pairs'/>
+        <page name='algorithm@implementation@migratory_birds'/>
+        <page name='algorithm@implementation@day_of_the_programmer'/>
+        <page name='algorithm@implementation@bon_appetit'/>
+        <page name='algorithm@implementation@sock_merchant'/>
+        <page name='algorithm@implementation@drawing_book'/>
+        <page name='algorithm@implementation@counting_valleys'/>
+        <page name='algorithm@implementation@electronics_shop'/>
+        <page name='algorithm@implementation@cats_and_a_mouse'/>
     </pages>
 </playground>
