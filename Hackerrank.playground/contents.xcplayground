@@ -3,6 +3,7 @@
     <pages>
         <page name='table_of_contents'/>
         <page name='algorithm'/>
+        <page name='data_structure'/>
         <page name='algorithm@warmup@slove_me_first'/>
         <page name='algorithm@warmup@simple_array_sum'/>
         <page name='algorithm@warmup@compare_the_triplets'/>
@@ -13,20 +14,26 @@
         <page name='algorithm@warmup@mini_max_sum'/>
         <page name='algorithm@warmup@birthday_cake_candles'/>
         <page name='algorithm@warmup@time_conversion'/>
-        <page name='algorithm@implementation@grading_students'/>
         <page name='algorithm@implementation@apple_and_orange'/>
-        <page name='algorithm@implementation@kangaroo'/>
         <page name='algorithm@implementation@between_two_sets'/>
-        <page name='algorithm@implementation@breaking_the_records'/>
         <page name='algorithm@implementation@birthday_chocolate'/>
-        <page name='algorithm@implementation@divisible_sum_pairs'/>
-        <page name='algorithm@implementation@migratory_birds'/>
-        <page name='algorithm@implementation@day_of_the_programmer'/>
         <page name='algorithm@implementation@bon_appetit'/>
-        <page name='algorithm@implementation@sock_merchant'/>
-        <page name='algorithm@implementation@drawing_book'/>
-        <page name='algorithm@implementation@counting_valleys'/>
-        <page name='algorithm@implementation@electronics_shop'/>
+        <page name='algorithm@implementation@breaking_the_records'/>
         <page name='algorithm@implementation@cats_and_a_mouse'/>
+        <page name='algorithm@implementation@counting_valleys'/>
+        <page name='algorithm@implementation@day_of_the_programmer'/>
+        <page name='algorithm@implementation@divisible_sum_pairs'/>
+        <page name='algorithm@implementation@drawing_book'/>
+        <page name='algorithm@implementation@electronics_shop'/>
+        <page name='algorithm@implementation@grading_students'/>
+        <page name='algorithm@implementation@kangaroo'/>
+        <page name='algorithm@implementation@migratory_birds'/>
+        <page name='algorithm@implementation@sock_merchant'/>
+        <page name='data_structure@arrays@2d_array_ds'/>
+        <page name='data_structure@arrays@arrays_ds'/>
+        <page name='data_structure@arrays@dynamic_array'/>
+        <page name='data_structure@arrays@left_rotation'/>
+        <page name='data_structure@arrays@sparse_arrays'/>
+        <page name='data_structure@arrays@array_manipulation'/>
     </pages>
 </playground>
